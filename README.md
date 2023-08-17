@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashlimb02
-- 👀 I’m interested in Machine Learning T
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Machine Learning..
+- 🌱 I’m currently learning Python..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
