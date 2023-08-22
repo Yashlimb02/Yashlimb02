@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning..
 - 🌱 I’m currently learning Python..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 https://www.instagram.com/yash_.080/
 
 <!---
 Yashlimb02/Yashlimb02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
